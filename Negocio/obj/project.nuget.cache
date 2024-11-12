@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gejv+JltkygyNmKJYkM775HLRyo27kbhm0AI4PiAUcf3iwtr9VKrCf6IALK55eWvQqtLhqlhbBTF7mYU0k8ztg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dento\\Downloads\\TIF-JuanManuelGarciaDenton\\Negocio\\Negocio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dento\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\dento\\.nuget\\packages\\nlog\\5.3.4\\nlog.5.3.4.nupkg.sha512",
+    "C:\\Users\\dento\\.nuget\\packages\\restsharp\\112.0.0\\restsharp.112.0.0.nupkg.sha512",
+    "C:\\Users\\dento\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.1\\system.configuration.configurationmanager.8.0.1.nupkg.sha512",
+    "C:\\Users\\dento\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
